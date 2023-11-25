@@ -2,6 +2,10 @@
 
 An informative AR-based game.
 
+## Link of Demo
+
+https://drive.google.com/file/d/1W3JusTr-SvLJIpTjeEvU8Ud63tkHxYkk/view?usp=sharing
+
 ## Setting up dev environment
 
 1. Install the dependencies
